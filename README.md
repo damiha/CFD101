@@ -5,4 +5,6 @@ This is a C++ implementation of Ten Minute Physics' excellent [youtube video](ht
 
 ### Demo
 
+**NOTE:** The demo takes a couple of seconds to load
+
 ![Video](./gifs/cfd_101.gif)
